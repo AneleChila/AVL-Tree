@@ -1,14 +1,14 @@
-import java.util.Scanner;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.PrintWriter;
-     
 /**
 * The InsertAVL program loads data from a file 'data.tar-1' into a AVL 
 * @author  Anele Chila
 * @version 1.0
 * @since   2017-04-24
 */
+
+import java.util.Scanner;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
 
 import java.time.Duration;
 import java.time.Instant;
