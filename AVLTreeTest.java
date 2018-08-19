@@ -1,6 +1,4 @@
-// Hussein's AVL Tree
-// 2 April2017
-// Hussein Suleman
+// reference: Hussein Suleman, kukuruku.co/post/avl-trees/
 
 public class AVLTreeTest
 {
