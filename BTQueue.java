@@ -1,6 +1,4 @@
-// Hussein's Binary Tree
-// 26 March 2017
-// Hussein Suleman
+// reference: Hussein Suleman, kukuruku.co/post/avl-trees/
 /**
 * The BTQueue uses a queues data structure for levelOrder
 * @author  Anele Chila
