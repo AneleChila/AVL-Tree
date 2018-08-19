@@ -1,4 +1,4 @@
-// reference: Hussein Suleman, kukuruku.co/post/avl-trees/
+
 /**
 * The BTQueue uses a queues data structure for levelOrder
 * @author  Anele Chila
