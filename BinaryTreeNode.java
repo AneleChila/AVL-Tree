@@ -1,6 +1,3 @@
-// Hussein's Binary Tree
-// 26 March 2017
-// Hussein Suleman
 
 /**
 * The BinaryTreeNode program creats each node in a tree
