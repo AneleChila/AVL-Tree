@@ -1,6 +1,4 @@
-// Hussein's Binary Tree
-// 26 March 2017
-// Hussein Suleman
+
 /**
 * The BinaryTree program Creats a Tree 
 * @author  Anele Chila
