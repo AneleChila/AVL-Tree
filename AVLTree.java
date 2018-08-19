@@ -1,4 +1,3 @@
-// reference: Hussein Suleman, kukuruku.co/post/avl-trees/
 /**
 * The AVLTree contains all the methods that are to manage the dataStructures. 
 * Insertion deletion balance factor ... 
