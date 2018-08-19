@@ -1,4 +1,3 @@
-// reference: Hussein Suleman, kukuruku.co/post/avl-trees/
 
 public class AVLTreeTest
 {
