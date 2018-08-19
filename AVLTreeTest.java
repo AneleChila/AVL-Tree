@@ -1,10 +1,4 @@
-/**
-* The AVLTree contains all the methods that are to manage the dataStructures. 
-* Insertion deletion balance factor ... 
-* @author  Anele Chila
-* @version 1.0
-* @since   2017-04-24
-*/
+
 public class AVLTreeTest
 {
    public static void main ( String [] args )
