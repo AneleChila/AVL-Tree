@@ -1,10 +1,3 @@
-import java.util.Scanner;
-import java.io.FileInputStream;
-import java.io.FileNotFoundException;
-import java.io.PrintWriter;
-import java.time.Duration;
-import java.time.Instant;
-
 /**
 * The SearchIt application searchs for an entry based on a full name. 
 * Application reads in a list of queries from a query file,
@@ -14,6 +7,13 @@ import java.time.Instant;
 * @version 1.0
 * @since   2017-04-24
 */
+
+import java.util.Scanner;
+import java.io.FileInputStream;
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
+import java.time.Duration;
+import java.time.Instant;
 
 public class SearchAVL
 {
